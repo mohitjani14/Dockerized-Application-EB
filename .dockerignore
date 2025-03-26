@@ -1,0 +1,22 @@
+# Ignore git files.
+.git
+.gitignore
+
+# Ignore docker files.
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Ignore node_modules & build files.
+npm-debug.log
+  
+# Ignore test files.
+test
+coverage
+
+# Ignore env files.
+.env
+.env.*
+
+# Ignore awseb files.
+.elasticbeanstalk
